@@ -6,3 +6,7 @@ This is the automated scraping service for Interview Bot. It is built with Pytho
 - `src/spiders/`: Scrapy spiders or scraping scripts
 - `src/pipelines/`: Data cleaning, deduplication, diffing
 - `src/utils/`: Helper functions (proxies, delays, etc.) 
+
+## how to run. uvicorn src.main:app --reload in backend
+## npm run dev in frontend
+## ollama serve
